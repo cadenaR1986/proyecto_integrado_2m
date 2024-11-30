@@ -1,2 +1,2 @@
-# proyecto_integrado_2m
-Modelo de Examen Final Tipo 2 - Este proyecto Integra conocimientos de Procesador de Texto, Planillas de calculo,, Github, Colab, Publicacion. Tenga README.md y licencia MIT
+## 1. Utilizando Write for me en ChatGPT Puedes ver el Informe escrito en: [[Informe Estadístico sobre la Educación en Argentina](**AQUI AGREGA LA DIRECCION COMPARTIDA DE WRITE FOR ME)]
+https://chatgpt.com/share/674a653c-1384-800c-bf9d-c111b01d89aa
